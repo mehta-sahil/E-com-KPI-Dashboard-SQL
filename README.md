@@ -1,6 +1,6 @@
 # E-com KPI Dashboard (SQL)
 
-**KPI definitions, trend analysis, and dashboard-ready SQL queries
+KPI definitions, trend analysis, and dashboard-ready SQL queries
 
 This project analyzes Walmart retail sales transaction data using SQL to extract key business insights.  
 The focus is on defining **KPIs**, performing **trend analysis**, and generating **dashboard-ready query outputs** that could be integrated into BI tools (e.g., Tableau, PowerBI, Excel).
